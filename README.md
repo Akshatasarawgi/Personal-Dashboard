@@ -14,8 +14,9 @@ he dashboard currently displays the information on Cryptocurrency - such as curr
 ## Overview
 The personal dashboard uses https://openweathermap.org and https://www.coingecko.com/api/ API to give data on weather and cryptocurrency.
 
-### Screenshot
-
+# Screenshot
+<img width="791" height="495" alt="Screenshot 2025-11-05 at 12 01 37 PM" src="https://github.com/user-attachments/assets/113dd364-0e09-49ba-9765-26fa51064cd0" />
+<img width="392" height="622" alt="Screenshot 2025-11-05 at 12 00 58 PM" src="https://github.com/user-attachments/assets/a430e5ab-bb32-44aa-b008-b3240b3f730d" />
 
 ### Built-with
 Vanilla JS
