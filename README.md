@@ -3,7 +3,6 @@ Created a personal dashboard that can be added to the chrome extension.
 he dashboard currently displays the information on Cryptocurrency - such as current market value, 24hour high market value and 24 hour low value , it also displays the current time in your city, and also the current weather information in your city.
 
 ## Table of Contents
-
 - [Overview](#overview)
 - [Screenshot](#screenshot)
 - [Links](#links)
